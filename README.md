@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m Sahil Kumar<br>💻 Website Developer | Mobile Application Developer | Data Analyst | Tech Enthusiast<br><br>🔹 I love building scalable web applications and exploring algorithms & data structures.<br>🔹 Passionate about open-source contributions and learning new technologies.<br>🔹 Currently diving deeper into Java, Python, Node.js, and Database Management<br><br>🌱 Always learning, always building, always sharing!
+I’m Sahil Kumar<br>💻 Website Developer | Mobile Application Developer<br><br>🔹 I love building scalable Web/App applications and exploring algorithms & data structures.<br>🔹 Currently diving deeper into Java, Python, React-Native, Node.js, and Database Management<br><br>🌱 Always learning, always building, always sharing!
 
 
 ## 🌐 Socials:
