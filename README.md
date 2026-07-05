@@ -11,16 +11,6 @@ Hi, I'm **Sahil Kumar** 👋
 - 🗄️ Design REST APIs and work with SQL & NoSQL databases
 - 🤖 Explore Machine Learning and AI-powered applications
 
-### 🌱 Currently Learning
-- Next.js
-- Advanced Backend Development
-- System Design
-- Cloud Deployment & DevOps
-
-💡 I enjoy solving real-world problems through code and continuously learning new technologies.
-
----
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sahilkumar_05_)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahil-kumar005/)
